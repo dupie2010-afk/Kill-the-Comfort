@@ -19,14 +19,25 @@ export default function App() {
           your weaker self survives another day.
         </p>
 
-        <a
-          href="https://payhip.com/b/xQFv4"
-          target="_blank"
-          className="cta-button"
-        >
-          GET FOUNDER'S ACCESS — $12.50
-        </a>
+        <div className="hero-pricing">
 
+  <a
+    href="https://payhip.com/b/xQFv4"
+    target="_blank"
+    className="cta-button"
+  >
+    GET FOUNDER ACCESS — $12.50 (≈ R229)
+  </a>
+
+  <p className="old-price">
+    <span>$49</span> • <span>≈ R899</span>
+  </p>
+
+  <p className="founder-warning">
+    Founder pricing disappears after first 100 members.
+  </p>
+
+</div>
       </section>
 
       <section className="pain-section">
