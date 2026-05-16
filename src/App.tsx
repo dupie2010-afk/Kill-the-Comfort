@@ -281,6 +281,9 @@ export default function App() {
         <p>
           Either you stay comfortable...
         </p>
+        <p className="creator-text">
+  Instant digital access. One payment. Lifetime access.
+</p>
 
         <p className="danger-text">
           or you become dangerous.
@@ -292,10 +295,13 @@ export default function App() {
           rel="noopener noreferrer"
           className="cta-button big-button"
         >
-          RECLAIM CONTROL
+          BECOME DANGEROUS
         </a>
 
         <div className="bottom-note">
+          <p className="founder-warning">
+  Founder pricing disappears after the first 100 members.
+</p>
           Instant Access • One Payment • Immediate Download
         </div>
 
