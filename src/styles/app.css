@@ -95,6 +95,9 @@ section {
   transform: scale(1.05);
 }
 
+.cta-button:hover {
+  transform: scale(1.05);
+}
 .big-button {
   font-size: 24px;
   padding: 26px 48px;
