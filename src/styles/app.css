@@ -303,3 +303,28 @@ li {
   color: #ff4d4d;
   font-weight: 700;
 }
+.creator-section {
+  text-align: center;
+}
+
+.creator-box {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.03);
+  border-radius: 32px;
+}
+
+.creator-label {
+  color: #ff4d4d;
+  letter-spacing: 3px;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.creator-text {
+  color: rgba(255,255,255,0.75);
+  max-width: 700px;
+  margin: 1.5rem auto;
+}
