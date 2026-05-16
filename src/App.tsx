@@ -170,6 +170,7 @@ export default function App() {
           </div>
 
         </div>
+      </section>
         <section className="proof-section">
 
   <h2>
