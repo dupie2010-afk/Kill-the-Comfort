@@ -273,3 +273,33 @@ li {
   color: rgba(255,255,255,0.75);
   line-height: 1.6;
 }
+
+.proof-section {
+  text-align: center;
+}
+
+.proof-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+  margin-top: 4rem;
+}
+
+.proof-card {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 24px;
+  padding: 2rem;
+  text-align: left;
+}
+
+.proof-card p {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+}
+
+.proof-card span {
+  color: #ff4d4d;
+  font-weight: 700;
+}
