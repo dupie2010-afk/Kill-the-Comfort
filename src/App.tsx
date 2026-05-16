@@ -292,7 +292,7 @@ export default function App() {
           rel="noopener noreferrer"
           className="cta-button big-button"
         >
-          KILL THE COMFORT NOW
+          RECLAIM CONTROL
         </a>
 
         <div className="bottom-note">
