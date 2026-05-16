@@ -5,6 +5,33 @@ export default function App() {
       <section className="hero">
 
         <div className="top-badge">
+          <section className="offer-section">
+  <h2>WHAT YOU GET</h2>
+
+  <div className="offer-grid">
+    <div className="offer-card">Full Comfort Killer System PDF</div>
+
+    <div className="offer-card">
+      Execution Conditioning Framework
+    </div>
+
+    <div className="offer-card">
+      Identity Shift Blueprint
+    </div>
+
+    <div className="offer-card">
+      Momentum Rebuild Exercises
+    </div>
+
+    <div className="offer-card">
+      Mental Discipline Protocols
+    </div>
+
+    <div className="offer-card">
+      Lifetime Access + Future Updates
+    </div>
+  </div>
+</section>
           FOR PEOPLE TIRED OF THEIR OWN EXCUSES
         </div>
 
