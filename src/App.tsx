@@ -282,11 +282,11 @@ export default function App() {
           Either you stay comfortable...
         </p>
         <p className="creator-text">
-  Instant digital access. One payment. Lifetime access.
+  OR you become dangerous.
 </p>
 
         <p className="danger-text">
-          or you become dangerous.
+          Instant digital download. One payment. Lifetime access..
         </p>
 
         <a
