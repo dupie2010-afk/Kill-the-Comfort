@@ -170,8 +170,42 @@ export default function App() {
           </div>
 
         </div>
+        <section className="proof-section">
 
-      </section>
+  <h2>
+    PEOPLE DON'T BUY THIS FOR MOTIVATION
+  </h2>
+
+  <div className="proof-grid">
+
+    <div className="proof-card">
+      <p>
+        “This made me realize how much time I waste negotiating with myself.”
+      </p>
+
+      <span>— Jason M.</span>
+    </div>
+
+    <div className="proof-card">
+      <p>
+        “Felt more like mental conditioning than motivation.”
+      </p>
+
+      <span>— Caleb R.</span>
+    </div>
+
+    <div className="proof-card">
+      <p>
+        “The execution framework alone was worth the price.”
+      </p>
+
+      <span>— Andre V.</span>
+    </div>
+
+  </div>
+
+</section>
+
       <section className="transformation-section">
 
   <h2>
