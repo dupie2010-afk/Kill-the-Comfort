@@ -199,3 +199,46 @@ li {
     font-size: 22px;
   }
 }
+
+.transformation-section {
+  text-align: center;
+}
+
+.transform-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+  margin-top: 4rem;
+}
+
+.transform-card {
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.03);
+  padding: 2.5rem;
+  border-radius: 28px;
+  text-align: left;
+  transition: all 0.3s ease;
+}
+
+.transform-card:hover {
+  transform: translateY(-6px);
+  border-color: rgba(255,80,80,0.4);
+}
+
+.transform-card span {
+  font-size: 5rem;
+  font-weight: 900;
+  color: rgba(255,60,60,0.15);
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.transform-card h3 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+.transform-card p {
+  color: rgba(255,255,255,0.75);
+  line-height: 1.6;
+}
