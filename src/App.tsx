@@ -174,6 +174,32 @@ export default function App() {
 
       </section>
 
+      <section className="creator-section">
+
+  <div className="creator-box">
+
+    <p className="creator-label">
+      WHY I BUILT THIS
+    </p>
+
+    <h2>
+      I got tired of watching people consume motivation while their lives stayed exactly the same.
+    </h2>
+
+    <p className="creator-text">
+      Comfort is addictive.
+      Excuses become identity.
+      And most people slowly become weaker without even realizing it.
+    </p>
+
+    <p className="creator-text">
+      This system was built to interrupt that cycle.
+    </p>
+
+  </div>
+
+</section>
+
       <section className="proof-section">
 
         <h2>
