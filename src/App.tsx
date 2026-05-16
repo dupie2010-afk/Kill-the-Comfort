@@ -30,6 +30,10 @@ export default function App() {
             GET FOUNDER ACCESS — $12.50 (≈ R229)
           </a>
 
+<p className="micro-promise">
+  A brutal execution system designed to destroy excuses, rebuild discipline, and force action.
+</p>
+
           <p className="old-price">
             <span>$49</span> • <span>≈ R899</span>
           </p>
