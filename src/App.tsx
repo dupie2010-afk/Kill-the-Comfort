@@ -172,6 +172,41 @@ export default function App() {
         </div>
 
       </section>
+      <section className="transformation-section">
+
+  <h2>
+    WHAT HAPPENS AFTER YOU START
+  </h2>
+
+  <div className="transform-grid">
+
+    <div className="transform-card">
+      <span>01</span>
+      <h3>You stop waiting to feel motivated</h3>
+      <p>
+        You build execution habits that work even on bad days.
+      </p>
+    </div>
+
+    <div className="transform-card">
+      <span>02</span>
+      <h3>You become mentally harder</h3>
+      <p>
+        Less procrastination. Less emotional weakness. More control.
+      </p>
+    </div>
+
+    <div className="transform-card">
+      <span>03</span>
+      <h3>You start respecting yourself again</h3>
+      <p>
+        Because you finally begin keeping promises to yourself.
+      </p>
+    </div>
+
+  </div>
+
+</section>
 
       <section className="final-section">
 
