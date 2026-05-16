@@ -24,6 +24,7 @@ export default function App() {
           <a
             href="https://payhip.com/b/xQFv4"
             target="_blank"
+            rel="noopener noreferrer"
             className="cta-button"
           >
             GET FOUNDER ACCESS — $12.50 (≈ R229)
@@ -170,76 +171,80 @@ export default function App() {
           </div>
 
         </div>
+
       </section>
-        <section className="proof-section">
 
-  <h2>
-    PEOPLE DON'T BUY THIS FOR MOTIVATION
-  </h2>
+      <section className="proof-section">
 
-  <div className="proof-grid">
+        <h2>
+          PEOPLE DON'T BUY THIS FOR MOTIVATION
+        </h2>
 
-    <div className="proof-card">
-      <p>
-        “This made me realize how much time I waste negotiating with myself.”
-      </p>
+        <div className="proof-grid">
 
-      <span>— Jason M.</span>
-    </div>
+          <div className="proof-card">
+            <p>
+              “This made me realize how much time I waste negotiating with myself.”
+            </p>
 
-    <div className="proof-card">
-      <p>
-        “Felt more like mental conditioning than motivation.”
-      </p>
+            <span>— Jason M.</span>
+          </div>
 
-      <span>— Caleb R.</span>
-    </div>
+          <div className="proof-card">
+            <p>
+              “Felt more like mental conditioning than motivation.”
+            </p>
 
-    <div className="proof-card">
-      <p>
-        “The execution framework alone was worth the price.”
-      </p>
+            <span>— Caleb R.</span>
+          </div>
 
-      <span>— Andre V.</span>
-    </div>
+          <div className="proof-card">
+            <p>
+              “The execution framework alone was worth the price.”
+            </p>
 
-  </div>
+            <span>— Andre V.</span>
+          </div>
 
-</section>
+        </div>
+
+      </section>
 
       <section className="transformation-section">
 
-  <h2>
-    WHAT HAPPENS AFTER YOU START
-  </h2>
+        <h2>
+          WHAT HAPPENS AFTER YOU START
+        </h2>
 
-  <div className="transform-grid">
+        <div className="transform-grid">
 
-    <div className="transform-card">
-      <span>01</span>
-      <h3>You stop waiting to feel motivated</h3>
-      <p>
-        You build execution habits that work even on bad days.
-      </p>
-    </div>
+          <div className="transform-card">
+            <span>01</span>
+            <h3>You stop waiting to feel motivated</h3>
+            <p>
+              You build execution habits that work even on bad days.
+            </p>
+          </div>
 
-    <div className="transform-card">
-      <span>02</span>
-      <h3>You become mentally harder</h3>
-      <p>
-        Less procrastination. Less emotional weakness. More control.
-      </p>
-    </div>
+          <div className="transform-card">
+            <span>02</span>
+            <h3>You become mentally harder</h3>
+            <p>
+              Less procrastination. Less emotional weakness. More control.
+            </p>
+          </div>
 
-    <div className="transform-card">
-      <span>03</span>
-      <h3>You start respecting yourself again</h3>
-      <p>
-        Because you finally begin keeping promises to yourself.
-      </p>
-    </div>
+          <div className="transform-card">
+            <span>03</span>
+            <h3>You start respecting yourself again</h3>
+            <p>
+              Because you finally begin keeping promises to yourself.
+            </p>
+          </div>
 
-  </div>
+        </div>
+
+      </section>
 
       <section className="final-section">
 
@@ -258,6 +263,7 @@ export default function App() {
         <a
           href="https://payhip.com/b/xQFv4"
           target="_blank"
+          rel="noopener noreferrer"
           className="cta-button big-button"
         >
           KILL THE COMFORT NOW
