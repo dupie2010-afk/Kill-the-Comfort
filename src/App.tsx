@@ -240,8 +240,6 @@ export default function App() {
 
   </div>
 
-</section>
-
       <section className="final-section">
 
         <h2>
