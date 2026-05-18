@@ -22,7 +22,7 @@ export default function App() {
         <div className="hero-pricing">
 
           <a
-            href="https://www.paypal.com/ncp/payment/NUP5XVA2GN3ZS"
+            href="https://dupster35.gumroad.com/l/etmdigital"
   target="_blank"
   rel="noopener noreferrer"
   className="cta-button"
