@@ -22,7 +22,7 @@ export default function App() {
         <div className="hero-pricing">
 
           <a
-     href="https://dupster35.gumroad.com/l/etmdigital"
+     href="/checkout.html"
   className="cta-button"
   target="_blank"
   rel="noopener noreferrer"
