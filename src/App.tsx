@@ -22,12 +22,12 @@ export default function App() {
         <div className="hero-pricing">
 
           <a
-            href="https://dupster35.gumroad.com/l/etmdigital"
+     href="https://dupster35.gumroad.com/l/etmdigital"
+  className="cta-button"
   target="_blank"
   rel="noopener noreferrer"
-  className="cta-button"
 >
-  GET FOUNDER ACCESS — $12.50 (≈ R229)
+  GET FOUNDER ACCESS — R220
 </a>
 
 <p className="micro-promise">
