@@ -22,7 +22,7 @@ export default function App() {
         <div className="hero-pricing">
 
           <a
-            href="https://payhip.com/buy?s=1&cart_links%5B%5D=xQFv4&qty%5BxQFv4%5D=1"
+            href="https://www.paypal.com/ncp/payment/NUP5XVA2GN3ZS"
             className="cta-button"
           >
             GET FOUNDER ACCESS — $12.50 (≈ R229)
