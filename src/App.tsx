@@ -22,7 +22,7 @@ export default function App() {
         <div className="hero-pricing">
 
           <a
-     href="/checkout.html"
+     href="/access.html"
   className="cta-button"
   target="_blank"
   rel="noopener noreferrer"
@@ -294,7 +294,7 @@ export default function App() {
         </p>
 
         <a
-          href="checkout.html"
+          href="access.html"
           target="_blank"
           rel="noopener noreferrer"
           className="cta-button big-button"
