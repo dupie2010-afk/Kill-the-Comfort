@@ -23,10 +23,12 @@ export default function App() {
 
           <a
             href="https://www.paypal.com/ncp/payment/NUP5XVA2GN3ZS"
-            className="cta-button"
-          >
-            GET FOUNDER ACCESS — $12.50 (≈ R229)
-          </a>
+  target="_blank"
+  rel="noopener noreferrer"
+  className="cta-button"
+>
+  GET FOUNDER ACCESS — $12.50 (≈ R229)
+</a>
 
 <p className="micro-promise">
   A brutal execution system designed to destroy excuses, rebuild discipline, and force action.
