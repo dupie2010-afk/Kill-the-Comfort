@@ -294,7 +294,7 @@ export default function App() {
         </p>
 
         <a
-          href="https://payhip.com/b/xQFv4"
+          href="checkout.html"
           target="_blank"
           rel="noopener noreferrer"
           className="cta-button big-button"
