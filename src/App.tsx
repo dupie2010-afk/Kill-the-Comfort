@@ -18,7 +18,9 @@ export default function App() {
           Every day you stay comfortable...
           your weaker self survives another day.
         </p>
-
+        <p className="tiktok-warning">
+⚠️ TikTok users: if checkout doesn’t open automatically, tap the 3 dots top right (⋮) and choose “Open in Browser”.
+</p>
         <div className="hero-pricing">
 
           <a
@@ -27,7 +29,7 @@ export default function App() {
   target="_blank"
   rel="noopener noreferrer"
 >
-  GET FOUNDER ACCESS — R220
+  OPEN CHECKOUT — R220
 </a>
 
 <p className="micro-promise">
@@ -299,7 +301,7 @@ export default function App() {
           rel="noopener noreferrer"
           className="cta-button big-button"
         >
-          BECOME DANGEROUS
+          OPEN CHECKOUT
         </a>
 
         <div className="bottom-note">
