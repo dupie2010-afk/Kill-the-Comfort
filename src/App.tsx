@@ -27,6 +27,15 @@ export default function App() {
     controls
     playsInline
     className="vsl-video"
+    style={{
+  width: "100%",
+  maxWidth: "420px",
+  height: "auto",
+  objectFit: "contain",
+  display: "block",
+  margin: "0 auto",
+  borderRadius: "12px"
+}}
   >
     <source src="/My Video1.mp4" type="video/mp4" />
   </video>
