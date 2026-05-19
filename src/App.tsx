@@ -21,7 +21,7 @@ export default function App() {
         <p className="tiktok-warning">
 ⚠️ TikTok users: if checkout doesn’t open automatically, tap the 3 dots top right (⋮) and choose “Open in Browser”.
 </p>
-        <div className="vsl-container">
+        <div className="vsl-container" style={{display:"flex", justifyContent:"center"}}>
 
   <video
     controls
