@@ -5,13 +5,13 @@ export default function App() {
       <section className="hero">
 
         <div className="top-badge">
-          FOR PEOPLE TIRED OF THEIR OWN EXCUSES
+          DESIGNED FOR BUSY PEOPLE WHO FEEL MENTALLY STUCK
         </div>
 
         <h1>
-          COMFORT IS
-          <span className="red"> DESTROYING </span>
-          YOUR FUTURE
+          A SIMPLE RESET
+          <span className="red"> FOR THOSE </span>
+          FEELING LOST
         </h1>
 
         <p className="subheadline">
@@ -53,7 +53,7 @@ export default function App() {
 </a>
 
 <p className="micro-promise">
-  A brutal execution system designed to destroy excuses, rebuild discipline, and force action.
+  A simple step-by-step reset system designed to help you regain clarity, focus and control over your life again.
 </p>
 
           <p className="old-price">
