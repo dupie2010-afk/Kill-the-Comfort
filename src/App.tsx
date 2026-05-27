@@ -321,7 +321,7 @@ export default function App() {
           rel="noopener noreferrer"
           className="cta-button big-button"
         >
-          OPEN CHECKOUT
+          START YOUR RESET
         </a>
 
         <div className="bottom-note">
