@@ -57,7 +57,7 @@ export default function App() {
 </p>
 
           <p className="founder-warning">
-            START IN LESS THAN 10 MINUTES A DAY EVEN WITH A BUSY SCHEDULE.
+            Start in less than 10 minutes per day-even with a busy schedule.
           </p>
 
         </div>
@@ -322,7 +322,7 @@ export default function App() {
 
         <div className="bottom-note">
           <p className="founder-warning">
-  Founder pricing disappears after the first 100 members.
+  Take back control of your life today.
 </p>
           Instant Access • One Payment • Immediate Download
         </div>
