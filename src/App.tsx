@@ -49,7 +49,7 @@ export default function App() {
   target="_blank"
   rel="noopener noreferrer"
 >
-  OPEN CHECKOUT — R220
+  START YOUR RESET — R220
 </a>
 
 <p className="micro-promise">
@@ -57,7 +57,7 @@ export default function App() {
 </p>
 
           <p className="founder-warning">
-            START IN LESS THAN 10 MINUTES A DAY AND TAKE BACK CONTROL.
+            START IN LESS THAN 10 MINUTES A DAY EVEN WITH A BUSY SCHEDULE.
           </p>
 
         </div>
