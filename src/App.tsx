@@ -37,7 +37,7 @@ export default function App() {
   borderRadius: "12px"
 }}
   >
-    <source src="/My Video1.mp4" type="video/mp4" />
+    <source src="/RESET.mp4" type="video/mp4" />
   </video>
 
 </div>
