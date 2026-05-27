@@ -56,12 +56,8 @@ export default function App() {
   A simple step-by-step reset system designed to help you regain clarity, focus and control over your life again.
 </p>
 
-          <p className="old-price">
-            <span>$49</span> • <span>≈ R899</span>
-          </p>
-
           <p className="founder-warning">
-            Founder pricing disappears after first 100 members.
+            START IN LESS THAN 10 MINUTES A DAY AND TAKE BACK CONTROL.
           </p>
 
         </div>
