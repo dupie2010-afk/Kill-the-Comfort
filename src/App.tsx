@@ -20,7 +20,7 @@ export default function App() {
         </p>
         <p className="tiktok-warning">
 A simple mental reset system designed for people who know they’re capable of more.
-          Built for busy people.
+          Built to fit a busy lifestyle.
 </p>
         <div className="vsl-container" style={{display:"flex", justifyContent:"center"}}>
 
