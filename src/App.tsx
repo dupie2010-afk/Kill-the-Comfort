@@ -19,7 +19,7 @@ export default function App() {
           your weaker self survives another day.
         </p>
         <p className="tiktok-warning">
-⚠️ TikTok users: if checkout doesn’t open automatically, tap the 3 dots top right (⋮) and choose “Open in Browser”.
+THAT FEELING DEEP INSIDE WHERE YOU KNOW THERE IS MORE TO THIS LIFE!
 </p>
         <div className="vsl-container" style={{display:"flex", justifyContent:"center"}}>
 
@@ -49,7 +49,7 @@ export default function App() {
   target="_blank"
   rel="noopener noreferrer"
 >
-  START YOUR RESET — R220
+  START YOUR RESET
 </a>
 
 <p className="micro-promise">
