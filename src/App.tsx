@@ -19,7 +19,8 @@ export default function App() {
           RECLAIM YOUR EDGE.
         </p>
         <p className="tiktok-warning">
-THAT FEELING DEEP INSIDE WHERE YOU KNOW THERE IS MORE TO THIS LIFE!
+A simple mental reset system designed for people who know they’re capable of more.
+          Built for busy people.
 </p>
         <div className="vsl-container" style={{display:"flex", justifyContent:"center"}}>
 
