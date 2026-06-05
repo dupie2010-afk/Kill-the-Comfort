@@ -16,7 +16,7 @@ export default function App() {
 
         <p className="subheadline">
           Every day you stay comfortable...
-          your weaker self survives another day.
+          your weaker self survives another day!
         </p>
         <p className="tiktok-warning">
 THAT FEELING DEEP INSIDE WHERE YOU KNOW THERE IS MORE TO THIS LIFE!
