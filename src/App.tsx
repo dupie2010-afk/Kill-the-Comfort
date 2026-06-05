@@ -9,9 +9,9 @@ export default function App() {
         </div>
 
         <h1>
-          A SIMPLE RESET
-          <span className="red"> FOR THOSE </span>
-          FEELING LOST
+          STOP NEGOTIATING 
+          <span className="red"> WITH </span>
+          WEAK YOU
         </h1>
 
         <p className="subheadline">
@@ -54,7 +54,7 @@ THAT FEELING DEEP INSIDE WHERE YOU KNOW THERE IS MORE TO THIS LIFE!
 </a>
 
 <p className="micro-promise">
-  A simple step-by-step reset system designed to help you regain clarity, focus and control over your life again.
+  This system is built to interrupt procrastination, comfort addiction, weak habits, and self-negotiation..
 </p>
 
           <p className="founder-warning">
