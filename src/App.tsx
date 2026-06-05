@@ -314,7 +314,7 @@ A simple mental reset system designed for people who know they’re capable of m
         </p>
 
         <a
-          href="access.html"
+          href="https://payhip.com/b/xQFv4"
           target="_blank"
           rel="noopener noreferrer"
           className="cta-button big-button"
