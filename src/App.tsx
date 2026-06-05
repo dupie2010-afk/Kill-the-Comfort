@@ -9,9 +9,9 @@ export default function App() {
         </div>
 
         <h1>
-          STOP NEGOTIATING 
-          <span className="red"> WITH </span>
-          WEAK YOU
+          A Simple Reset 
+          <span className="red"> for </span>
+          Those Who Know They Are Meant for More!
         </h1>
 
         <p className="subheadline">
