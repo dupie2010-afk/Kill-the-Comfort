@@ -46,7 +46,7 @@ A simple mental reset system designed for people who know they’re capable of m
         <div className="hero-pricing">
 
           <a
-     href="/access.html"
+     href="https://payhip.com/b/xQFv4"
   className="cta-button"
   target="_blank"
   rel="noopener noreferrer"
