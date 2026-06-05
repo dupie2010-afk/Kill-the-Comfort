@@ -25,7 +25,7 @@ THAT FEELING DEEP INSIDE WHERE YOU KNOW THERE IS MORE TO THIS LIFE!
 
   <video
     controls
-    poster="/thumbnail.png"
+    poster="/Thumbnail.png"
     playsInline
     className="vsl-video"
     style={{
