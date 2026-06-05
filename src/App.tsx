@@ -5,13 +5,13 @@ export default function App() {
       <section className="hero">
 
         <div className="top-badge">
-          DESIGNED FOR BUSY PEOPLE WHO FEEL MENTALLY STUCK
+          DESIGNED FOR BUSY PEOPLE READY TO RESET
         </div>
 
         <h1>
           A Simple Reset 
-          <span className="red"> for </span>
-          Those Who Know They Are Meant for More!
+          <span className="red"> For </span>
+          Those Who Are Meant For More!
         </h1>
 
         <p className="subheadline">
