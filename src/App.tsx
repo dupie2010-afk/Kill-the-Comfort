@@ -5,7 +5,7 @@ export default function App() {
       <section className="hero">
 
         <div className="top-badge">
-          DESIGNED FOR BUSY PEOPLE READY TO RESET
+          DESIGNED FOR BUSY PEOPLE READY TO RESET!
         </div>
 
         <h1>
